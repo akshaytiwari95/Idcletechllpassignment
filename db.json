@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "email": "adxgy@gmail.com",
+      "password": "456",
+      "address": "1234",
+      "city": "asdf",
+      "state": "fgh",
+      "zip": "ssssss",
+      "id": 1
+    },
+    {
+      "email": "prax@yahoo.com",
+      "password": "9412086422",
+      "address": "49 herranagar",
+      "city": "dddd",
+      "state": "8828282",
+      "zip": "263139",
+      "id": 3
+    },
+    {
+      "email": "kuku@yahoo.com",
+      "password": "737373",
+      "address": "1234 min",
+      "city": "haldwani",
+      "state": "55466",
+      "zip": "2345",
+      "id": 4
+    }
+  ]
+}
